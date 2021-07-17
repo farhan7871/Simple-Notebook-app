@@ -1,4 +1,4 @@
-const UNCOMPLETED_LIST_BOOK_ID = "books";
+const UNCOMPLETED_LIST_BOOK_ID = "incompleteBookshelfList";
 const COMPLETED_LIST_BOOK_ID = "completed-books";
 const BOOK_ITEMID = "itemId";
 
